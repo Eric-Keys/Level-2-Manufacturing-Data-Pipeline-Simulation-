@@ -16,3 +16,9 @@ The root cause was diagnosed as an environment mismatch: the database tables wer
 * **Database Infrastructure:** Navigating Oracle Multitenant database architecture (`XE` vs `XEPDB1`).
 * **Pipeline Security:** Implementing parameterized `OracleCommand` data bindings (`:machine`, `:weight`) to enforce strict type constraints and neutralize SQL injection vectors.
 * **Defensive Coding Integration:** Adapting C# null-coalescing operations (`?? ""`) to gracefully handle unexpected asynchronous terminal stream faults without halting the execution thread.
+
+## Pictures
+<img src="Pictures/Screenshot%202026-04-27%20173154.png" width="800">
+<img src="images/Screenshot%202026-04-27%20173154.png" width="800">
+<img src="images/Screenshot%202026-04-27%20173154.png" width="800">
+<img src="images/Screenshot%202026-04-27%20173154.png" width="800">
