@@ -18,7 +18,7 @@ The root cause was diagnosed as an environment mismatch: the database tables wer
 * **Defensive Coding Integration:** Adapting C# null-coalescing operations (`?? ""`) to gracefully handle unexpected asynchronous terminal stream faults without halting the execution thread.
 
 ## Pictures
-<img src="programmer%20practice/pictures/Screenshot%202026-06-23%010535.png" width="800">
+<img src="pictures/Screenshot%202026-06-23%20010535.png" width="800">
 <img src="pictures/Screenshot%202026-06-23%20012759.png" width="800">
 <img src="pictures/Screenshot%202026-06-23%20024042.png" width="800">
 <img src="pictures/Screenshot%202026-06-23%20024139.png" width="800">
