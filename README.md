@@ -19,6 +19,6 @@ The root cause was diagnosed as an environment mismatch: the database tables wer
 
 ## Pictures
 <img src="programmer%20practice/pictures/Screenshot%202026-06-23%010535.png" width="800">
-<img src="pictures/Screenshot%202026-06-23%012759.png" width="800">
-<img src="pictures/Screenshot%202026-06-23%024042.png" width="800">
-<img src="pictures/Screenshot%202026-06-23%024139.png" width="800">
+<img src="pictures/Screenshot%202026-06-23%20012759.png" width="800">
+<img src="pictures/Screenshot%202026-06-23%20024042.png" width="800">
+<img src="pictures/Screenshot%202026-06-23%20024139.png" width="800">
